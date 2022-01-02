@@ -3,7 +3,7 @@
 This is my personal [mpv.net](https://github.com/stax76/mpv.net) .conf files and alongside some nice user scripts modified by Dexeonify.
 
 While mostly intended for medium and high end Windows PCs running at 
-high refresh rates, feel free to modify my .conf as you wish.
+high refresh rates (>60hz), feel free to modify my .conf as you wish.
 
 ## Requirements
 
@@ -17,11 +17,11 @@ high refresh rates, feel free to modify my .conf as you wish.
 
 ⚠️ This page is still under construction, comeback in the next few days!
 
-## References and Sources
+## References and Resources
 
 - [Kokomins's mpv Configuration Guide for Watching Videos](https://kokomins.wordpress.com/2019/10/14/mpv-config-guide/)
 - [Tsubajashi/mpv-settings](https://github.com/Tsubajashi/mpv-settings/)
-- [Iamscum'S Guide](https://iamscum.wordpress.com/guides/videoplayback-guide/mpv-conf/)
+- [Iamscum's Guide](https://iamscum.wordpress.com/guides/videoplayback-guide/mpv-conf/)
 
 If you are interested in high quality scaling:
 
