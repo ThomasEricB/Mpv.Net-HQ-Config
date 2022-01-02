@@ -2,8 +2,8 @@
 
 This is my personal [mpv.net](https://github.com/stax76/mpv.net) config files and alongside some nice user scripts modified by Dexeonify.
 
-While mostly intended for medium and high end Windows PCs running at 144hz 
-and high refresh rates, feel free to modify them as you wish.
+While mostly intended for medium and high end Windows PCs running at 
+high refresh rates, feel free to modify them as you wish.
 
 ## Requirements
 
