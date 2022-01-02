@@ -9,6 +9,10 @@ high refresh rates, feel free to modify them as you wish.
 
 ⚠️ This page is still under construction, comeback in the next few days!
 
+## Instalation
+
+⚠️ This page is still under construction, comeback in the next few days!
+
 ## Recommended User Scripts
 
 ⚠️ This page is still under construction, comeback in the next few days!
