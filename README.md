@@ -2,7 +2,7 @@
 
 This is my personal [mpv.net](https://github.com/stax76/mpv.net) .conf files and alongside some nice user scripts modified by Dexeonify.
 
-[Again, special Thanks do Dexeonify for Providing the .lua Scripts.](https://github.com/dexeonify/mpv-config)
+[Again, special thanks do Dexeonify for Providing the .lua Scripts.](https://github.com/dexeonify/mpv-config)
 
 While mostly intended for medium and high end Windows PCs running at 
 high refresh rates (>60hz), feel free to modify my .conf as you wish.
