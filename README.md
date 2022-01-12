@@ -1,4 +1,4 @@
-# MpvNet-HQ-Config
+# Mpv.Net-HQ-Config
 
 This is my personal [mpv.net](https://github.com/stax76/mpv.net) .conf files and alongside some nice user scripts modified by Dexeonify.
 
